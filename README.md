@@ -32,27 +32,29 @@ All work was completed in **Jupyter Notebooks** on a local Anaconda environment.
 
 ---
 
-## 🧩 Repository Structure
-
-learning/freecodecamp/data_analysis/
-├── 2 - Pandas Series exercises.ipynb
-├── 3. NumPy exercises.ipynb
-├── 4 - Pandas DataFrames exercises.ipynb
-├── Exercises_1.ipynb
-├── projects
-│   ├── data
-│   │   ├── adult.data.csv
-│   │   ├── epa-sea-level.csv
-│   │   ├── fcc-forum-pageviews.csv
-│   │   └── medical_examination.csv
-│   ├── demographic-data-analyzer.ipynb
-│   ├── mean_variance_std.ipynb
-│   ├── medical.ipynb
-│   ├── pageviews.ipynb
-│   └── sea_level_predictor.ipynb
-├── README.md
-└── sales_data.csv
-
+## 🧩 Repository Structure 
+```
+  learning/
+└── freecodecamp/
+    └── data_analysis/
+        ├── 2 - Pandas Series exercises.ipynb
+        ├── 3 - NumPy exercises.ipynb
+        ├── 4 - Pandas DataFrames exercises.ipynb
+        ├── Exercises_1.ipynb
+        ├── sales_data.csv
+        ├── README.md
+        └── projects/
+            ├── data/
+            │   ├── adult.data.csv
+            │   ├── epa-sea-level.csv
+            │   ├── fcc-forum-pageviews.csv
+            │   └── medical_examination.csv
+            ├── demographic-data-analyzer.ipynb
+            ├── mean_variance_std.ipynb
+            ├── medical.ipynb
+            ├── pageviews.ipynb
+            └── sea_level_predictor.ipynb
+```
 
 ---
 
@@ -113,10 +115,10 @@ plt.show()
 
 ## 📫 Contact
 
-**Mahmoud (dr4who)**
-Data Scientist & AI Enthusiast
-🔗 [GitHub Profile](https://github.com/dr4who)
-🎓 [FreeCodeCamp Profile](https://www.freecodecamp.org/dr4who)
+**Mahmoud (dr4who)**  
+__Data Scientist & AI Enthusiast__  
+🔗 [GitHub Profile](https://github.com/dr4who)  
+🎓 [FreeCodeCamp Profile](https://www.freecodecamp.org/dr4who)  
 
 ---
 
