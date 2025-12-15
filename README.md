@@ -8,7 +8,7 @@
 
 ## 🎓 Certificate
 
-[View Official Certificate →](https://www.freecodecamp.org/certification/dr4who/data-analysis-with-python)
+[View Official Certificate →](https://www.freecodecamp.org/certification/dr4who/data-analysis-with-python-v7)
 
 ---
 
